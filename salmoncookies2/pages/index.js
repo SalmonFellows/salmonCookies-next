@@ -158,7 +158,7 @@ export default function Home() {
 			<Image src={family} alt="the founding family" width={360} height={180} />
 				<article>
 					<h2>Meet the Team</h2>
-					<p>
+					<p className = {styles.story}>
 						Starting in the great city of Seattle in 2009, Pat's Salmon Cookies is proof that dreams do come true. Pat
 						spend much of the 2000's perfecting his recipe. Figuring out a way to make cookies and fish combine to make
 						something delicious had never been done before and for good reason, it's not easy. But Pat, with his

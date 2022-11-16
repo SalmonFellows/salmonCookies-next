@@ -38,11 +38,10 @@
 	background-color: darkslategray;
 }
 
-.form{
+.form {
 	max-width: 90vw;
 	padding: 2vh;
   gap: 1vh;
-  /* flex: 1; */
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -92,12 +91,16 @@
 	max-width: 69vw;
 	min-width: 69vw;
 	margin: 1vw;
-	gap: 2vw;
+	gap: 1vw;
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
 	background-color: salmon;
+}
+
+.story {
+	margin-right: 19px;
 }
 
 .table {
