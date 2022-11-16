@@ -41,6 +41,9 @@
 
 .locationCard {
 	background-color: moccasin;
+	border-color: salmon;
+	border-width: 2px;
+	border-style: solid;
 }
 
 .form {
@@ -73,6 +76,10 @@
   justify-content: center;
   align-items: center;
 	background-color: salmon;
+	border-radius: 5px;
+	border-color: moccasin;
+	border-width: 3px;
+	border-style: solid;
 }
 
 .contactInfo {
@@ -102,10 +109,17 @@
   justify-content: center;
   align-items: center;
 	background-color: salmon;
+	border-radius: 5px;
+	border-color: moccasin;
+	border-width: 3px;
+	border-style: solid;
 }
 
 .story {
 	margin-right: 19px;
+	border-radius: 5px;
+	border-color: moccasin;
+	border-width: 3px;
 }
 
 .table {
@@ -114,6 +128,9 @@
 	margin: 1vw;
 	border: 2vw;
 	background-color: moccasin;
+	border-color: salmon;
+	border-width: 2px;
+	border-style: solid;
 }
 
 .footer {
