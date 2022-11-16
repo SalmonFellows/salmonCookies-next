@@ -38,6 +38,10 @@
 	background-color: darkslategray;
 }
 
+.locationCard {
+	background-color: moccasin;
+}
+
 .form {
 	max-width: 90vw;
 	padding: 2vh;

@@ -45,8 +45,8 @@ export default function Home() {
 				<h3>Open 6am to 7pm local</h3>
 				</>
 <div className = {styles.locations}>
-	<div className = {styles.locationCard}>
-    <Card sx={{ minWidth: 275 }}>
+	<div>
+    <Card className = {styles.locationCard} sx={{ minWidth: 275 }}>
       <CardContent>
         <Typography variant="h5" component="div">
           Seattle
@@ -63,8 +63,8 @@ export default function Home() {
     </Card>
 	</div>
 
-	<div className = {styles.locationCard}>
-    <Card sx={{ minWidth: 275 }}>
+	<div>
+    <Card className = {styles.locationCard} sx={{ minWidth: 275 }}>
       <CardContent>
         <Typography variant="h5" component="div">
           Tokyo
@@ -81,8 +81,8 @@ export default function Home() {
     </Card>
 	</div>
 
-	<div className = {styles.locationCard}>
-    <Card sx={{ minWidth: 275 }}>
+	<div>
+    <Card className = {styles.locationCard} sx={{ minWidth: 275 }}>
       <CardContent>
         <Typography variant="h5" component="div">
           Dubai
@@ -99,8 +99,8 @@ export default function Home() {
     </Card>
 	</div>
 
-	<div className = {styles.locationCard}>
-    <Card sx={{ minWidth: 275 }}>
+	<div>
+    <Card className = {styles.locationCard} sx={{ minWidth: 275 }}>
       <CardContent>
         <Typography variant="h5" component="div">
           Paris
@@ -117,8 +117,8 @@ export default function Home() {
     </Card>
 	</div>
 
-	<div className = {styles.locationCard}>
-    <Card sx={{ minWidth: 275 }}>
+	<div>
+    <Card className = {styles.locationCard} sx={{ minWidth: 275 }}>
       <CardContent>
         <Typography variant="h5" component="div">
           Lima
